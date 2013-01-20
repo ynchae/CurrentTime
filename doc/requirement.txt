@@ -1,0 +1,21 @@
+Section 1
+Theme: GREE Platform
+
+Follow the steps below and create a web service for the GREE Platform. 
+
+Description: 
+
+* Create a web service at an address that can be accessed from anywhere. (e.g. Create a web page using PHP Fog)
+* Create a developer account via the Developer Center. ( https://developer.gree.net )
+* Login to your account.
+* Select the Test Application List on the Sandbox and click “Register test application”.
+* Select Smartphone “Web” application.
+* Create a gadget.xml file in the root of your web service with the instructions at https://docs.developer.gree.net/ja/technicalspecs/featurephone/gadgetxml.
+* Enter the url of your file for “URL of Gadget XML”.
+* Register your test account from “Test Accounts” in the Sandbox.
+* Log-in from sb.gree.jp with your test account.
+* Select the test application that you created at sb.gree.jp. If everything went successfully, you should see your web service shown as a GREE application.
+
+Deliverables:
+* Submit the sandbox address for the created service.
+* Submit the project page of your project on github.
